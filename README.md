@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liranien
-- 👀 I’m interested in web sites coding
-- 🌱 I’m currently learning at Web Marketing Assistant at my school, i practice HTML, CSS , JAVASCRIPT, PHP
+- 👀 I’m interested in web sites and mobiles apps coding
+- 🌱 I’m currently practice HTML, CSS , JAVASCRIPT, PHP, REACT
 - 💞️ I’m looking to collaborate on HTML, CSS , JAVASCRIPT, PHP
 - 📫 How to reach me ...
 
