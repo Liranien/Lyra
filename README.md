@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liranien
-- 👀 I’m interested in web sites and mobiles apps coding
-- 🌱 I’m currently practice HTML, CSS , JAVASCRIPT, PHP, REACT
-- 💞️ I’m looking to collaborate on HTML, CSS , JAVASCRIPT, PHP
+- 👀 I’m interested for data analyst
+- 🌱 I’m currently practice on PYTHON
+- 💞️ I’m looking to collaborate PYTHO?
 - 📫 How to reach me ...
 
 <!---
