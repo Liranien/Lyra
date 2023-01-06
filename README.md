@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liranien
 - 👀 I’m interested for data analyst
 - 🌱 I’m currently practice on PYTHON
-- 💞️ I’m looking to collaborate PYTHO?
+- 💞️ I’m looking to collaborate on PYTHON
 - 📫 How to reach me ...
 
 <!---
